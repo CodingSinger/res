@@ -1,0 +1,56 @@
+2018-08-28 13:40:17,982 [myid:] - INFO  [main:QuorumPeerConfig@136] - Reading configuration from: /Users/zhengzechao/StudyBox/appBox/zookeeper-3.4.11/bin/../conf/zoo.cfg
+2018-08-28 13:40:17,986 [myid:] - INFO  [main:DatadirCleanupManager@78] - autopurge.snapRetainCount set to 3
+2018-08-28 13:40:17,986 [myid:] - INFO  [main:DatadirCleanupManager@79] - autopurge.purgeInterval set to 0
+2018-08-28 13:40:17,986 [myid:] - INFO  [main:DatadirCleanupManager@101] - Purge task is not scheduled.
+2018-08-28 13:40:17,987 [myid:] - WARN  [main:QuorumPeerMain@116] - Either no config or no quorum defined in config, running  in standalone mode
+2018-08-28 13:40:17,999 [myid:] - INFO  [main:QuorumPeerConfig@136] - Reading configuration from: /Users/zhengzechao/StudyBox/appBox/zookeeper-3.4.11/bin/../conf/zoo.cfg
+2018-08-28 13:40:17,999 [myid:] - INFO  [main:ZooKeeperServerMain@98] - Starting server
+2018-08-28 13:40:18,015 [myid:] - INFO  [main:Environment@100] - Server environment:zookeeper.version=3.4.11-37e277162d567b55a07d1755f0b31c32e93c01a0, built on 11/01/2017 18:06 GMT
+2018-08-28 13:40:18,015 [myid:] - INFO  [main:Environment@100] - Server environment:host.name=192.168.1.100
+2018-08-28 13:40:18,015 [myid:] - INFO  [main:Environment@100] - Server environment:java.version=1.8.0_144
+2018-08-28 13:40:18,015 [myid:] - INFO  [main:Environment@100] - Server environment:java.vendor=Oracle Corporation
+2018-08-28 13:40:18,015 [myid:] - INFO  [main:Environment@100] - Server environment:java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+2018-08-28 13:40:18,015 [myid:] - INFO  [main:Environment@100] - Server environment:java.class.path=/Users/zhengzechao/StudyBox/appBox/zookeeper-3.4.11/bin/../build/classes:/Users/zhengzechao/StudyBox/appBox/zookeeper-3.4.11/bin/../build/lib/*.jar:/Users/zhengzechao/StudyBox/appBox/zookeeper-3.4.11/bin/../lib/slf4j-log4j12-1.6.1.jar:/Users/zhengzechao/StudyBox/appBox/zookeeper-3.4.11/bin/../lib/slf4j-api-1.6.1.jar:/Users/zhengzechao/StudyBox/appBox/zookeeper-3.4.11/bin/../lib/netty-3.10.5.Final.jar:/Users/zhengzechao/StudyBox/appBox/zookeeper-3.4.11/bin/../lib/log4j-1.2.16.jar:/Users/zhengzechao/StudyBox/appBox/zookeeper-3.4.11/bin/../lib/jline-0.9.94.jar:/Users/zhengzechao/StudyBox/appBox/zookeeper-3.4.11/bin/../lib/audience-annotations-0.5.0.jar:/Users/zhengzechao/StudyBox/appBox/zookeeper-3.4.11/bin/../zookeeper-3.4.11.jar:/Users/zhengzechao/StudyBox/appBox/zookeeper-3.4.11/bin/../src/java/lib/*.jar:/Users/zhengzechao/StudyBox/appBox/zookeeper-3.4.11/bin/../conf:.:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/lib/tools.jar
+2018-08-28 13:40:18,015 [myid:] - INFO  [main:Environment@100] - Server environment:java.library.path=/Users/zhengzechao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+2018-08-28 13:40:18,016 [myid:] - INFO  [main:Environment@100] - Server environment:java.io.tmpdir=/var/folders/60/p56nn12s5sq59wz96nlpdfcc0000gn/T/
+2018-08-28 13:40:18,016 [myid:] - INFO  [main:Environment@100] - Server environment:java.compiler=<NA>
+2018-08-28 13:40:18,016 [myid:] - INFO  [main:Environment@100] - Server environment:os.name=Mac OS X
+2018-08-28 13:40:18,017 [myid:] - INFO  [main:Environment@100] - Server environment:os.arch=x86_64
+2018-08-28 13:40:18,017 [myid:] - INFO  [main:Environment@100] - Server environment:os.version=10.12.6
+2018-08-28 13:40:18,017 [myid:] - INFO  [main:Environment@100] - Server environment:user.name=zhengzechao
+2018-08-28 13:40:18,017 [myid:] - INFO  [main:Environment@100] - Server environment:user.home=/Users/zhengzechao
+2018-08-28 13:40:18,017 [myid:] - INFO  [main:Environment@100] - Server environment:user.dir=/Users/zhengzechao/StudyBox/res
+2018-08-28 13:40:18,024 [myid:] - INFO  [main:ZooKeeperServer@825] - tickTime set to 200000
+2018-08-28 13:40:18,024 [myid:] - INFO  [main:ZooKeeperServer@834] - minSessionTimeout set to -1
+2018-08-28 13:40:18,025 [myid:] - INFO  [main:ZooKeeperServer@843] - maxSessionTimeout set to -1
+2018-08-28 13:40:18,037 [myid:] - INFO  [main:ServerCnxnFactory@117] - Using org.apache.zookeeper.server.NIOServerCnxnFactory as server connection factory
+2018-08-28 13:40:18,047 [myid:] - INFO  [main:NIOServerCnxnFactory@89] - binding to port 0.0.0.0/0.0.0.0:2181
+2018-08-28 13:41:57,540 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /127.0.0.1:60127
+2018-08-28 13:41:57,548 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@938] - Client attempting to establish new session at /127.0.0.1:60127
+2018-08-28 13:41:57,549 [myid:] - INFO  [SyncThread:0:FileTxnLog@209] - Creating new log file: log.2d24d
+2018-08-28 13:41:57,576 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@683] - Established session 0x1000c6cc3c80000 with negotiated timeout 400000 for client /127.0.0.1:60127
+2018-08-28 13:42:24,725 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /0:0:0:0:0:0:0:1:60142
+2018-08-28 13:42:24,770 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@938] - Client attempting to establish new session at /0:0:0:0:0:0:0:1:60142
+2018-08-28 13:42:24,778 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@683] - Established session 0x1000c6cc3c80001 with negotiated timeout 400000 for client /0:0:0:0:0:0:0:1:60142
+2018-08-28 13:42:42,301 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1000c6cc3c80001
+2018-08-28 13:42:42,303 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /0:0:0:0:0:0:0:1:60142 which had sessionid 0x1000c6cc3c80001
+2018-08-28 13:43:12,401 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /0:0:0:0:0:0:0:1:60149
+2018-08-28 13:43:12,413 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@938] - Client attempting to establish new session at /0:0:0:0:0:0:0:1:60149
+2018-08-28 13:43:12,414 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@683] - Established session 0x1000c6cc3c80002 with negotiated timeout 400000 for client /0:0:0:0:0:0:0:1:60149
+2018-08-28 13:43:32,214 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@376] - Unable to read additional data from client sessionid 0x1000c6cc3c80002, likely client has closed socket
+2018-08-28 13:43:32,214 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /0:0:0:0:0:0:0:1:60149 which had sessionid 0x1000c6cc3c80002
+2018-08-28 13:46:48,595 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /127.0.0.1:60208
+2018-08-28 13:46:48,631 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@938] - Client attempting to establish new session at /127.0.0.1:60208
+2018-08-28 13:46:48,638 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@683] - Established session 0x1000c6cc3c80003 with negotiated timeout 400000 for client /127.0.0.1:60208
+2018-08-28 13:46:51,950 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@376] - Unable to read additional data from client sessionid 0x1000c6cc3c80003, likely client has closed socket
+2018-08-28 13:46:51,951 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /127.0.0.1:60208 which had sessionid 0x1000c6cc3c80003
+2018-08-28 13:49:24,405 [myid:] - INFO  [SessionTracker:ZooKeeperServer@354] - Expiring session 0x10002b2a5900003, timeout of 400000ms exceeded
+2018-08-28 13:49:24,406 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x10002b2a5900003
+2018-08-28 13:52:44,405 [myid:] - INFO  [SessionTracker:ZooKeeperServer@354] - Expiring session 0x1000c6cc3c80002, timeout of 400000ms exceeded
+2018-08-28 13:52:44,406 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1000c6cc3c80002
+2018-08-28 13:56:04,405 [myid:] - INFO  [SessionTracker:ZooKeeperServer@354] - Expiring session 0x1000c6cc3c80003, timeout of 400000ms exceeded
+2018-08-28 13:56:04,406 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1000c6cc3c80003
+2018-08-28 22:23:54,230 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@376] - Unable to read additional data from client sessionid 0x1000c6cc3c80000, likely client has closed socket
+2018-08-28 22:23:54,233 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /127.0.0.1:60127 which had sessionid 0x1000c6cc3c80000
+2018-08-28 22:29:24,411 [myid:] - INFO  [SessionTracker:ZooKeeperServer@354] - Expiring session 0x1000c6cc3c80000, timeout of 400000ms exceeded
+2018-08-28 22:29:24,411 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1000c6cc3c80000
